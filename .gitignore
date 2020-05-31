@@ -11,3 +11,5 @@ jdbc-drivers/*
 src/main/resources/static
 
 release/
+config.bat
+node_modules
